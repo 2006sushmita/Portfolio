@@ -7,7 +7,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## 🚀 Live Demo
 
-🔗 [https://your-portfolio.vercel.app](https://portfolio-hxa9he1t9-2006sushmitas-projects.vercel.app)
+🔗(https://2006sushmita.github.io/Portfolio/)
 
 ---
 
